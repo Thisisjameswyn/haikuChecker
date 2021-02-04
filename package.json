@@ -12,7 +12,7 @@
   "jest": {
     "collectCoverage": true,
     "coverageReporters": [
-      "html"
+      "html","text"
     ]
   },
   "keywords": [],
