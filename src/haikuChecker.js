@@ -39,7 +39,7 @@ export default class Haiku {
   // }
 
   sylCount() {
-    output = this.words.map(word => {
+    let output = this.words.map(word => {
       let counter = 0;
       let permute = word;
 
